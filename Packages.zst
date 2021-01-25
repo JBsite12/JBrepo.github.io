@@ -1,0 +1,14 @@
+Package: com.jbsite.theme
+Name: JBsite_test
+Version: 1.0
+Architecture: iphoneos-arm
+Description: test theme by jbsite!
+Maintainer: JBsite <jbsite12tk@gmail.com>
+Author: JBsite <jbsite12tk@gmail.com>
+Section: Themes
+Depends: com.spark.snowboard
+Filename: debians/com.jbsite.theme_iphoneos-arm_1.0.deb
+Size: 7168
+MD5sum: 0B36809566DC0773C43715990C1C1EBF
+SHA1: A3044B9D225982F662ECD5B9A4503D4AE4F4DFEE
+SHA256: F9CD0BE263DE68C4E36B2C35F11D506E8D329268E4D0BCAE72553C6C94D008D8
